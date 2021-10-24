@@ -95,7 +95,7 @@ def show_question():
     AnsGroupBox.hide()
     submit.setText('Відповісти')
 
-    RadioGroup.setExclusive(False)#Зняти обмеження, щоб скинути вибір
+    RadioGroup.setExclusive(False)
     RadButton1.setChecked(False)
     RadButton2.setChecked(False)
     RadButton3.setChecked(False)
